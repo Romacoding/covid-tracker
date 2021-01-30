@@ -1,0 +1,9 @@
+.clj-kondo
+.lsp
+.shadow-cljs
+.donotcomit
+.DS_Store
+node_modules
+.calva
+yarn.lock
+unusedcode.cljs
