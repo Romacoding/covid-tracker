@@ -3,7 +3,7 @@
 
 (defn covid
   []
-  [:div {:class "column card m-4"}
+  [:div {:class "column m-4"}
    [:h3 {:class "title is-3 has-text-centered"} "Covid Tracker"]
    [:p {:class "is-small has-text-centered m-2"} (str "Discover the latest data and information about the coronavirus (COVID-19) outbreak in your state.")]
    #_[:div {:class "m-4"}

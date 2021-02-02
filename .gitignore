@@ -7,3 +7,5 @@ node_modules
 .calva
 yarn.lock
 unusedcode.cljs
+/public/js
+cljs-runtime
